@@ -1,0 +1,4 @@
+name: AtheriaKlan
+version: '1.0-SNAPSHOT'
+main: com.nai.atheriaKlan.AtheriaKlan
+api-version: '1.21'
